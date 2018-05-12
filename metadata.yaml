@@ -1,0 +1,31 @@
+_repo: The-Last-Gentleman_32655
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Speicher, Ted
+    gutenberg_agent_id: '35967'
+    url: http://www.gutenberg.org/2009/agents/35967
+covers:
+- cover_type: archival
+  image_path: 32655-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Magill, Rory
+    alias: Faulkner, Dorothea M.
+    gutenberg_agent_id: '35966'
+    url: http://www.gutenberg.org/2009/agents/35966
+description: ''
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Last Gentleman
+url: http://www.gutenberg.org/ebooks/32655
